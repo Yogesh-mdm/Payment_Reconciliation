@@ -1,0 +1,91 @@
+transaction_id,merchant,amount,currency,status,recorded_at
+txn_0086,MediaStream,12749,EUR,settled,2024-01-02 10:03:00
+txn_0085,FoodMart,13816,INR,settled,2024-01-11 11:00:00
+txn_0003,MediaStream,6197,INR,settled,2024-01-02 17:01:00
+txn_0081,FoodMart,19587,INR,settled,2024-01-19 17:00:00
+txn_0036,FoodMart,8914,SGD,settled,2024-01-12 16:09:00
+txn_0002,TechStore,15128,EUR,settled,2024-01-30 05:09:00
+txn_0038,MediaStream,47223,GBP,settled,2024-01-30 00:06:00
+txn_0087,CloudSoft,29482,EUR,settled,2024-01-08 04:02:00
+txn_0045,HealthCo,31476,EUR,settled,2024-01-18 17:04:00
+txn_0110,FoodMart,7047,EUR,failed,2024-01-29 08:01:00
+txn_0082,CloudSoft,4676,USD,settled,2024-01-16 22:00:00
+txn_0058,HealthCo,3786,INR,settled,2024-01-22 19:09:00
+txn_0078,HealthCo,9083,EUR,settled,2024-01-24 21:00:00
+txn_0017,MediaStream,11208,SGD,settled,2024-01-12 21:09:00
+txn_0089,TravelHub,22500,EUR,settled,2024-01-02 09:04:00
+txn_0053,TravelHub,32326,SGD,settled,2024-01-18 11:01:00
+txn_0052,TravelHub,1467,USD,settled,2024-01-08 11:07:00
+txn_0056,CloudSoft,10644,EUR,settled,2024-01-10 15:01:00
+txn_0057,Acme Corp,38457,INR,settled,2024-01-14 18:01:00
+txn_0054,Acme Corp,11289,SGD,settled,2024-01-18 00:05:00
+txn_0011,CloudSoft,25307,USD,settled,2024-01-28 04:10:00
+txn_0013,CloudSoft,43836,EUR,settled,2024-01-04 18:04:00
+txn_0055,MediaStream,30319,GBP,settled,2024-01-25 02:08:00
+txn_0020,TravelHub,37670,GBP,settled,2024-01-29 08:08:00
+txn_0019,CloudSoft,21173,SGD,settled,2024-01-04 04:04:00
+txn_0037,TravelHub,40253,SGD,settled,2024-01-24 09:04:00
+txn_0025,MediaStream,10516,EUR,settled,2024-01-26 19:02:00
+txn_0008,RetailPlus,10689,EUR,settled,2024-01-05 17:02:00
+txn_0094,TravelHub,10078,SGD,settled,2024-01-12 05:01:00
+txn_0029,HealthCo,28992,EUR,settled,2024-01-01 12:05:00
+txn_0009,RetailPlus,25398,USD,settled,2024-01-16 01:10:00
+txn_0079,Acme Corp,14514,INR,settled,2024-01-06 03:00:00
+txn_0080,Acme Corp,2965,EUR,settled,2024-01-17 03:00:00
+txn_0095,TravelHub,1610,INR,settled,2024-01-16 21:07:00
+txn_0108,HealthCo,1257,EUR,failed,2024-01-27 10:01:00
+txn_0044,FoodMart,14540,INR,settled,2024-01-25 17:10:00
+txn_0047,Acme Corp,27441,SGD,settled,2024-01-30 02:02:00
+txn_0031,TravelHub,42374,INR,settled,2024-01-07 21:06:00
+txn_0077,RetailPlus,1944,USD,settled,2024-01-06 22:00:00
+txn_0112,TravelHub,8111,USD,failed,2024-01-06 13:04:00
+txn_0018,Acme Corp,14892,GBP,settled,2024-01-11 03:01:00
+txn_0034,TravelHub,16192,USD,settled,2024-01-25 13:02:00
+txn_0012,TravelHub,24200,INR,settled,2024-01-04 08:01:00
+txn_0050,HealthCo,12525,GBP,settled,2024-01-12 00:02:00
+txn_0084,RetailPlus,8676,USD,settled,2024-01-25 06:00:00
+txn_0046,MediaStream,6681,USD,settled,2024-01-16 11:07:00
+txn_0030,TechStore,33306,EUR,settled,2024-01-28 01:05:00
+txn_0041,TravelHub,36801,EUR,settled,2024-01-01 16:02:00
+txn_0059,TechStore,10817,USD,settled,2024-01-09 07:02:00
+txn_0115,TravelHub,7873,GBP,failed,2024-01-28 13:03:00
+txn_0007,MediaStream,925,EUR,settled,2024-01-15 21:05:00
+txn_0083,TravelHub,1807,GBP,settled,2024-01-30 11:00:00
+txn_0027,TechStore,36756,USD,settled,2024-01-30 11:09:00
+txn_0001,Acme Corp,42405,USD,settled,2024-01-13 02:04:00
+txn_0107,TravelHub,5585,EUR,failed,2024-01-07 15:01:00
+txn_0042,TravelHub,46889,USD,settled,2024-01-04 06:01:00
+txn_0109,TravelHub,7961,SGD,failed,2024-01-17 18:04:00
+txn_0005,TravelHub,2239,INR,settled,2024-01-29 02:09:00
+txn_0024,TechStore,33892,SGD,settled,2024-01-03 09:02:00
+txn_0043,TravelHub,22154,USD,settled,2024-01-13 06:08:00
+txn_0114,HealthCo,8770,SGD,failed,2024-01-08 03:04:00
+txn_0035,TechStore,6113,SGD,settled,2024-01-24 02:03:00
+txn_0023,RetailPlus,38742,SGD,settled,2024-01-10 17:03:00
+txn_0006,HealthCo,27993,EUR,settled,2024-01-26 12:05:00
+txn_0016,FoodMart,46494,USD,settled,2024-01-24 03:04:00
+txn_0039,HealthCo,29211,INR,settled,2024-01-06 12:04:00
+txn_0091,RetailPlus,28293,INR,settled,2024-01-02 13:02:00
+txn_0032,Acme Corp,11087,INR,settled,2024-01-26 22:06:00
+txn_0010,HealthCo,17835,USD,settled,2024-01-24 06:02:00
+txn_0026,HealthCo,25716,SGD,settled,2024-01-23 22:05:00
+txn_0051,TechStore,29541,INR,settled,2024-01-03 12:09:00
+txn_0049,HealthCo,13056,EUR,settled,2024-01-07 08:07:00
+txn_0092,CloudSoft,14702,INR,settled,2024-01-03 00:02:00
+txn_0004,TravelHub,6640,EUR,settled,2024-01-22 22:10:00
+txn_0090,TechStore,24512,GBP,settled,2024-01-13 06:06:00
+txn_0014,CloudSoft,7119,SGD,settled,2024-01-20 17:06:00
+txn_0040,RetailPlus,15225,USD,settled,2024-01-02 06:10:00
+txn_0021,FoodMart,26428,SGD,settled,2024-01-12 16:03:00
+txn_0113,RetailPlus,2684,SGD,failed,2024-01-20 06:05:00
+txn_0106,RetailPlus,8945,INR,failed,2024-01-05 08:02:00
+txn_0093,RetailPlus,31479,GBP,settled,2024-01-19 23:10:00
+txn_0022,CloudSoft,16662,INR,settled,2024-01-26 07:07:00
+txn_0048,RetailPlus,4472,SGD,settled,2024-01-06 00:04:00
+txn_0033,TechStore,32521,USD,settled,2024-01-16 20:05:00
+txn_0060,TravelHub,39496,USD,settled,2024-01-18 14:02:00
+txn_0028,RetailPlus,49709,GBP,settled,2024-01-06 03:05:00
+txn_0088,TravelHub,4637,SGD,settled,2024-01-09 21:08:00
+txn_0015,RetailPlus,11159,GBP,settled,2024-01-10 07:05:00
+txn_0111,TravelHub,2246,SGD,failed,2024-01-08 21:05:00
+txn_0076,MediaStream,2164,USD,settled,2024-01-13 04:00:00

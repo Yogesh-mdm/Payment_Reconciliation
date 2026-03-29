@@ -1,0 +1,106 @@
+transaction_id,merchant,amount,currency,status,created_at
+txn_0023,RetailPlus,38742,SGD,success,2024-01-10 17:00:00
+txn_0064,CloudSoft,13969,EUR,success,2024-01-20 21:00:00
+txn_0005,TravelHub,2239,INR,success,2024-01-29 02:00:00
+txn_0065,Acme Corp,11360,USD,success,2024-01-20 22:00:00
+txn_0075,HealthCo,7671,GBP,success,2024-01-12 02:00:00
+txn_0058,HealthCo,3786,INR,success,2024-01-22 19:00:00
+txn_0107,TravelHub,5585,EUR,failed,2024-01-07 15:00:00
+txn_0094,TravelHub,9578,SGD,success,2024-01-12 05:00:00
+txn_0088,TravelHub,4537,SGD,success,2024-01-09 21:00:00
+txn_0059,TechStore,10817,USD,success,2024-01-09 07:00:00
+txn_0004,TravelHub,6640,EUR,success,2024-01-22 22:00:00
+txn_0104,TravelHub,7738,SGD,refunded,2024-01-23 04:00:00
+txn_0017,MediaStream,11208,SGD,success,2024-01-12 21:00:00
+txn_0019,CloudSoft,21173,SGD,success,2024-01-04 04:00:00
+txn_0012,TravelHub,24200,INR,success,2024-01-04 08:00:00
+txn_0068,TravelHub,12436,USD,success,2024-01-17 03:00:00
+txn_0016,FoodMart,46494,USD,success,2024-01-24 03:00:00
+txn_0071,CloudSoft,27774,INR,success,2024-01-29 16:00:00
+txn_0021,FoodMart,26428,SGD,success,2024-01-12 16:00:00
+txn_0014,CloudSoft,7119,SGD,success,2024-01-20 17:00:00
+txn_0029,HealthCo,28992,EUR,success,2024-01-01 12:00:00
+txn_0034,TravelHub,16192,USD,success,2024-01-25 13:00:00
+txn_0024,TechStore,33892,SGD,success,2024-01-03 09:00:00
+txn_0074,TravelHub,10232,INR,success,2024-01-16 00:00:00
+txn_0055,MediaStream,30319,GBP,success,2024-01-25 02:00:00
+txn_0007,MediaStream,925,EUR,success,2024-01-15 21:00:00
+txn_0045,HealthCo,31476,EUR,success,2024-01-18 17:00:00
+txn_0013,CloudSoft,43836,EUR,success,2024-01-04 18:00:00
+txn_0033,TechStore,32521,USD,success,2024-01-16 20:00:00
+txn_0115,TravelHub,7873,GBP,failed,2024-01-28 13:00:00
+txn_0101,MediaStream,9824,GBP,refunded,2024-01-24 18:00:00
+txn_0047,Acme Corp,27441,SGD,success,2024-01-30 02:00:00
+txn_0061,Acme Corp,19667,EUR,success,2024-01-27 19:00:00
+txn_0090,TechStore,23512,GBP,success,2024-01-13 06:00:00
+txn_0006,HealthCo,27993,EUR,success,2024-01-26 12:00:00
+txn_0042,TravelHub,46889,USD,success,2024-01-04 06:00:00
+txn_0105,TechStore,8252,EUR,refunded,2024-01-13 11:00:00
+txn_0038,MediaStream,47223,GBP,success,2024-01-30 00:00:00
+txn_0113,RetailPlus,2684,SGD,failed,2024-01-20 06:00:00
+txn_0051,TechStore,29541,INR,success,2024-01-03 12:00:00
+txn_0087,CloudSoft,28982,EUR,success,2024-01-08 04:00:00
+txn_0040,RetailPlus,15225,USD,success,2024-01-02 06:00:00
+txn_0092,CloudSoft,13702,INR,success,2024-01-03 00:00:00
+txn_0096,RetailPlus,11382,GBP,refunded,2024-01-29 16:00:00
+txn_0099,FoodMart,11923,GBP,refunded,2024-01-09 13:00:00
+txn_0026,HealthCo,25716,SGD,success,2024-01-23 22:00:00
+txn_0044,FoodMart,14540,INR,success,2024-01-25 17:00:00
+txn_0089,TravelHub,22000,EUR,success,2024-01-02 09:00:00
+txn_0022,CloudSoft,16662,INR,success,2024-01-26 07:00:00
+txn_0025,MediaStream,10516,EUR,success,2024-01-26 19:00:00
+txn_0002,TechStore,15128,EUR,success,2024-01-30 05:00:00
+txn_0056,CloudSoft,10644,EUR,success,2024-01-10 15:00:00
+txn_0093,RetailPlus,30479,GBP,success,2024-01-19 23:00:00
+txn_0098,RetailPlus,5567,SGD,refunded,2024-01-18 13:00:00
+txn_0108,HealthCo,1257,EUR,failed,2024-01-27 10:00:00
+txn_0032,Acme Corp,11087,INR,success,2024-01-26 22:00:00
+txn_0015,RetailPlus,11159,GBP,success,2024-01-10 07:00:00
+txn_0066,TechStore,21354,INR,success,2024-01-04 12:00:00
+txn_0052,TravelHub,1467,USD,success,2024-01-08 11:00:00
+txn_0112,TravelHub,8111,USD,failed,2024-01-06 13:00:00
+txn_0069,HealthCo,10338,EUR,success,2024-01-24 13:00:00
+txn_0048,RetailPlus,4472,SGD,success,2024-01-06 00:00:00
+txn_0103,RetailPlus,3943,SGD,refunded,2024-01-21 05:00:00
+txn_0073,FoodMart,4507,INR,success,2024-01-12 23:00:00
+txn_0072,CloudSoft,4394,EUR,success,2024-01-06 07:00:00
+txn_0039,HealthCo,29211,INR,success,2024-01-06 12:00:00
+txn_0046,MediaStream,6681,USD,success,2024-01-16 11:00:00
+txn_0001,Acme Corp,42405,USD,success,2024-01-13 02:00:00
+txn_0062,RetailPlus,3686,SGD,success,2024-01-12 12:00:00
+txn_0049,HealthCo,13056,EUR,success,2024-01-07 08:00:00
+txn_0003,MediaStream,6197,INR,success,2024-01-02 17:00:00
+txn_0095,TravelHub,2110,INR,success,2024-01-16 21:00:00
+txn_0086,MediaStream,12649,EUR,success,2024-01-02 10:00:00
+txn_0027,TechStore,36756,USD,success,2024-01-30 11:00:00
+txn_0008,RetailPlus,10689,EUR,success,2024-01-05 17:00:00
+txn_0111,TravelHub,2246,SGD,failed,2024-01-08 21:00:00
+txn_0060,TravelHub,39496,USD,success,2024-01-18 14:00:00
+txn_0100,FoodMart,7388,SGD,refunded,2024-01-27 15:00:00
+txn_0106,RetailPlus,8945,INR,failed,2024-01-05 08:00:00
+txn_0053,TravelHub,32326,SGD,success,2024-01-18 11:00:00
+txn_0054,Acme Corp,11289,SGD,success,2024-01-18 00:00:00
+txn_0009,RetailPlus,25398,USD,success,2024-01-16 01:00:00
+txn_0028,RetailPlus,49709,GBP,success,2024-01-06 03:00:00
+txn_0097,CloudSoft,14393,USD,refunded,2024-01-23 00:00:00
+txn_0050,HealthCo,12525,GBP,success,2024-01-12 00:00:00
+txn_0030,TechStore,33306,EUR,success,2024-01-28 01:00:00
+txn_0020,TravelHub,37670,GBP,success,2024-01-29 08:00:00
+txn_0018,Acme Corp,14892,GBP,success,2024-01-11 03:00:00
+txn_0011,CloudSoft,25307,USD,success,2024-01-28 04:00:00
+txn_0070,Acme Corp,24053,GBP,success,2024-01-29 20:00:00
+txn_0041,TravelHub,36801,EUR,success,2024-01-01 16:00:00
+txn_0043,TravelHub,22154,USD,success,2024-01-13 06:00:00
+txn_0035,TechStore,6113,SGD,success,2024-01-24 02:00:00
+txn_0114,HealthCo,8770,SGD,failed,2024-01-08 03:00:00
+txn_0037,TravelHub,40253,SGD,success,2024-01-24 09:00:00
+txn_0102,CloudSoft,14159,USD,refunded,2024-01-13 14:00:00
+txn_0010,HealthCo,17835,USD,success,2024-01-24 06:00:00
+txn_0057,Acme Corp,38457,INR,success,2024-01-14 18:00:00
+txn_0036,FoodMart,8914,SGD,success,2024-01-12 16:00:00
+txn_0031,TravelHub,42374,INR,success,2024-01-07 21:00:00
+txn_0091,RetailPlus,28193,INR,success,2024-01-02 13:00:00
+txn_0063,TravelHub,7693,GBP,success,2024-01-12 16:00:00
+txn_0067,CloudSoft,18617,EUR,success,2024-01-07 00:00:00
+txn_0110,FoodMart,7047,EUR,failed,2024-01-29 08:00:00
+txn_0109,TravelHub,7961,SGD,failed,2024-01-17 18:00:00
