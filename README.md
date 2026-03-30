@@ -85,15 +85,6 @@ Both the processor and ledger have a record for the same transaction ID, but the
 
 ---
 
-### Type 4 — Refund Not Reflected in Ledger
-The processor recorded a refund but the ledger has no corresponding entry.
-
-**What this means operationally:** A customer was refunded but the internal books don't reflect it. This overstates revenue and will cause end-of-month reconciliation to fail.
-
-**What a finance team should do:** Post the refund entry to the ledger immediately and audit the refund pipeline for similar gaps.
-
----
-
 ## Key Design Decision — Semantic Drift
 
 The processor and ledger use different labels for the same transaction state:
