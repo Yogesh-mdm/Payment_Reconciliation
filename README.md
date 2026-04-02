@@ -56,7 +56,7 @@ The SQLite database and Excel report are created automatically.
 
 ---
 
-## The 4 Mismatch Types This Pipeline Catches
+## The 3 Mismatch Types This Pipeline Catches
 
 ### Type 1 — Missing from Ledger
 Transaction shows as settled in the processor but has no corresponding entry in the internal ledger.
@@ -111,19 +111,18 @@ Running the pipeline produces this summary:
 Missing from ledger:     15 rows
 Ghost entries in ledger: 10 rows
 Amount mismatches:       10 rows
-Refunds not in ledger:   10 rows
 Total mismatches:        45 rows
 
 ✅ recon_report.xlsx saved
 ```
 
-The Excel report has 4 tabs — one per mismatch type — so a finance team can filter and action each category separately.
+The Excel report has 3 tabs — one per mismatch type — so a finance team can filter and action each category separately.
 
 ---
 
 ## What I Would Build Next at Scale
 
-This pipeline works for a small dataset. At Stripe's scale, here is what would need to change:
+This pipeline works for a small dataset. At Large scale, here is what would need to change:
 
 | Limitation now | Production solution |
 |---|---|
